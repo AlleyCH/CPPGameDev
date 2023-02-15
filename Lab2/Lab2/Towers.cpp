@@ -48,7 +48,7 @@ void nonRecursiveMethod(int n, int intialPeg, int movedTo, int tempPeg)
 
 int main(void) {
 
-	recursiveMethod(5, 1, 2, 3); // determine how many pegs and disks there are
+	recursiveMethod(3, 1, 2, 3); // determine how many pegs and disks there are
 	
 	nonRecursiveMethod(3, 1, 2, 3);
 	

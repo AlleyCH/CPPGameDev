@@ -50,6 +50,6 @@ void calcSalary() {
 	}
 
 	int main() {
-		//calcSalary();
+		calcSalary();
 		calcSalaryArrayByPointerArithmetic();
 	}
